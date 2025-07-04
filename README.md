@@ -1,7 +1,7 @@
 # Fawry Task
 
 First example 
-![Example Checkout](examples/example1.png)
+![Example Checkout](Examples/example1.png)
 
 
 
