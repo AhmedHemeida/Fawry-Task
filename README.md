@@ -1,7 +1,7 @@
 # Fawry Task
 
 First example 
-![Checkout Screenshot](Examples/example 1.png)
+![Checkout Screenshot](Examples/example 1)
 
 
 
